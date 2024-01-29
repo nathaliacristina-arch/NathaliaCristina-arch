@@ -1,5 +1,5 @@
-### Oii! Sou Nathalia Cristina
-Graduanda em Ciência da Computação na Universidade Federal de São Paulo
+### Hii! I'm  Nathalia Cristina
+Computer Science student at Universidade Federal de São Paulo
 
 
 <div>
