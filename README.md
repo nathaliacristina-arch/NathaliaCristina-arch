@@ -2,14 +2,18 @@
 Computer Science student at Universidade Federal de São Paulo
 
 
-<div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NathaliaCristina-arch&show_icons=true&theme=dark"/>
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCristina-arch&layout=compact&theme=dark"/>
 
-<br clear="both"/>
-
-
+<div align="center">
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=NathaliaCristina-arch&show_icons=true&theme=dark&count_private=true"
+  />
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaCristina-arch&layout=compact&theme=dark"
+  />
 </div>
+
 
  ##
  
