@@ -1,7 +1,8 @@
 ### Hii! I'm  Nathalia Cristina
 Graduated in Science and Technology at Universidade Federal de São Paulo (UNIFESP).
-Development Analyst with 1.5 years of experience in the tech field, working with Python, JavaScript, CSS and web development.
-
+Development Analyst with 1.5 years of experience in software development.
+I enjoy building practical solutions, learning new technologies, and improving code quality.
+Currently focused on **Python, JavaScript, and web development**.
 
 <div align="center">
   <img
@@ -33,6 +34,11 @@ Development Analyst with 1.5 years of experience in the tech field, working with
   
 </div>
 
+## 🔧 Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
