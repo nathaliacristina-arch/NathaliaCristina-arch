@@ -1,6 +1,6 @@
 ### Hii! I'm  Nathalia Cristina
-Computer Science student at Universidade Federal de São Paulo
-
+Graduated in Science and Technology at Universidade Federal de São Paulo (UNIFESP).
+Development Analyst with 1.5 years of experience in the tech field, working with Python, JavaScript, CSS and web development.
 
 
 <div align="center">
