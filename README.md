@@ -5,7 +5,8 @@ I enjoy building practical solutions, learning new technologies, and improving c
 Currently focused on **Python, JavaScript, and web development**.
 
 ##
-
+<div style="display: inline_block"><br>
+  
 <div align="center">
   <img
     height="160em"
