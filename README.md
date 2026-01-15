@@ -4,6 +4,8 @@ Development Analyst with 1.5 years of experience in software development.
 I enjoy building practical solutions, learning new technologies, and improving code quality.
 Currently focused on **Python, JavaScript, and web development**.
 
+##
+
 <div align="center">
   <img
     height="160em"
